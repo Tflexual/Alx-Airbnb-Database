@@ -116,23 +116,4 @@ The goal is to model core entities — **Users, Properties, Bookings, Payments, 
 
 ---
 
-## 🧭 Entity Relationship Diagram (ERD)
 
-Below is the ERD representation of the AirBnB Database Schema:
-
-![AirBnB ERD](./airbnb_erd.png)
-
-**Legend:**
-- 🔑 = Primary Key  
-- 🗝️ = Foreign Key  
-- 1..* = One-to-Many Relationship  
-
----
-
-## 🏁 Summary
-
-This schema ensures:
-- Normalized structure (up to 3NF)
-- Data integrity through FK constraints
-- Role-based user system (guest, host, admin)
-- Full traceability of bookings, payments, reviews, and user communications
