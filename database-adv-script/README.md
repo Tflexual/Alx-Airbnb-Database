@@ -26,7 +26,7 @@ Write both correlated and non-correlated subqueries.
 - `subqueries.sql` → contains all subquery examples.
 
 
-# Aggregation and Window Functions Task
+# Aggregation and Window Functions 
 
 ### Objective
 Use SQL aggregation and window functions to analyze data.
