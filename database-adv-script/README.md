@@ -13,7 +13,7 @@ Practice using different types of SQL joins in the Airbnb database.
 - `README.md` → explains the project
 
 
-##  Subqueries
+# Subqueries
 
 ### Project Objective
 Write both correlated and non-correlated subqueries.
