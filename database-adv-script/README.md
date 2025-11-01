@@ -24,3 +24,17 @@ Write both correlated and non-correlated subqueries.
 
 ### Files
 - `subqueries.sql` → contains all subquery examples.
+
+
+# Aggregation and Window Functions Task
+
+### Objective
+Use SQL aggregation and window functions to analyze data.
+
+### Queries Included
+1. **Aggregation Query** – Find the total number of bookings made by each user.
+2. **Window Function Query** – Rank properties based on the total number of bookings.
+
+### Files
+- `aggregations_and_window_functions.sql` → contains aggregation and ranking queries.
+
