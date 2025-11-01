@@ -11,3 +11,16 @@ Practice using different types of SQL joins in the Airbnb database.
 ## Files
 - `joins_queries.sql` → contains all SQL queries
 - `README.md` → explains the project
+
+
+##  Subqueries
+
+### Project Objective
+Write both correlated and non-correlated subqueries.
+
+### Queries Included
+1. **Non-correlated Subquery** – Find all properties where the average rating is greater than 4.0.
+2. **Correlated Subquery** – Find users who have made more than 3 bookings.
+
+### Files
+- `subqueries.sql` → contains all subquery examples.
